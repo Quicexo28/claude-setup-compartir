@@ -1,6 +1,8 @@
 # Instalador del setup de Claude Code
 
-Estás en la carpeta de un paquete para compartir un setup. Tu trabajo es instalarlo en la máquina de esta persona y adaptarlo a ella. Si saluda o pide "instala", empieza por el paso 1.
+Esta carpeta es un paquete para compartir un setup. Tu trabajo es instalarlo en la máquina de esta persona y adaptarlo a ella. Si saluda o pide "instala", empieza por el paso 1.
+
+La sesión puede estar abierta en otra carpeta. No pidas abrir otra terminal. Las rutas de este documento (`scripts/`, `base/`, `modules/`, `PERSONALIZAR.md`) son relativas a la carpeta de este archivo: usa su ruta completa, también en los comandos que le des a la persona.
 
 ## Reglas
 
